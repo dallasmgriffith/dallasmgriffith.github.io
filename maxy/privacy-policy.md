@@ -1,7 +1,3 @@
-Here's a sample Privacy Policy for a Discord bot. This template covers the key aspects of data collection, usage, and protection, and should be customized based on your specific bot's functionality and legal requirements.
-
----
-
 ## Privacy Policy
 
 ### 1. Introduction
@@ -64,4 +60,4 @@ The Bot is not intended for use by individuals under the age of 13. We do not kn
 
 ### 9. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on dallasmgriffith.github.io/maxy/privacy-policy. You are advised to review this Privacy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on dallasmgriffith.github.io/maxy/privacy-policy. You are advised to review this Privacy0
